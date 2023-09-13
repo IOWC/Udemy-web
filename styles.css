@@ -70,7 +70,7 @@
 }
 
 .destination {
-  flex: 1;
+  flex: 1; /* destination img, width: 100% 적용이 안되어서 반영한 코드 */
   margin: 0 20px;
   text-transform: uppercase;
 }
